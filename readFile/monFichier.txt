@@ -1,0 +1,2 @@
+Bonjour, je suis en train d'écrire dans un fichier.
+Et voici une autre ligne de texte.
